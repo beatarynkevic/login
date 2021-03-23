@@ -16,5 +16,5 @@ require __DIR__.'/bootstrap.php'; //kodas bendras visiems
 </body>
 </html>
 
-//constanta nuskaityti bet negalima keisti, ji superglobali ir patenka i funkcijas
-//jeigu const define kode, ytai ji matosi vusur
+<!-- constanta nuskaityti bet negalima keisti, ji superglobali ir patenka i funkcijas
+jeigu const define kode, ytai ji matosi vusur -->
